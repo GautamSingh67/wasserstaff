@@ -1,13 +1,16 @@
 
 import './App.css';
 import FIRSTHEX from './component/FIRSTHEX';
-// import { HEXOGON } from './component/HEXOGON';
+import { HEXONE } from './component/HEXONE';
+import { HEXSECOND } from './component/HEXSECOND';
+
 
 function App() {
   return (
     <div className="App">
        <FIRSTHEX/>
-       {/* <HEXOGON/> */}
+       <HEXONE/>
+       <HEXSECOND/>
     </div>
   );
 }
