@@ -7,27 +7,27 @@ export function HEXSECOND() {
       <Background/>
       <BigWidgetBubbleChart>
         <BgLines/>
-        <BgLines_0001/>
-        <BubbleChart_0001>
+        <BgLines1/>
+        <BubbleChart1>
           <Bubble/>
-          <Bubble_0001/>
-          <Bubble_0002/>
-          <Bubble_0003/>
-          <Bubble_0004/>
-          <Bubble_0005/>
-          <Bubble_0006/>
-          <Bubble_0007/>
-          <Bubble_0008/>
-          <Bubble_0009/>
-          <Bubble_0010/>
-          <Bubble_0011/>
-          <Bubble_0012/>
-          <Bubble_0013/>
-          <Bubble_0014/>
-          <Bubble_0015/>
-          <Bubble_0016/>
-          <Bubble_0017/>
-        </BubbleChart_0001>
+          <Bubble1/>
+          <Bubble2/>
+          <Bubble3/>
+          <Bubble4/>
+          <Bubble5/>
+          <Bubble6/>
+          <Bubble7/>
+          <Bubble8/>
+          <Bubble9/>
+          <Bubble10/>
+          <Bubble11/>
+          <Bubble12/>
+          <Bubble13/>
+          <Bubble14/>
+          <Bubble15/>
+          <Bubble16/>
+          <Bubble17/>
+        </BubbleChart1>
         <Investments>
           <Time>
             3 month
@@ -40,53 +40,53 @@ export function HEXSECOND() {
           </Value>
         </Investments>
         <Design>
-          <Time_0001>
+          <Time1>
             3 month
-          </Time_0001>
-          <Value_0001>
+          </Time1>
+          <Value1>
             $32,982
-          </Value_0001>
+          </Value1>
           <Title>
             Design
           </Title>
         </Design>
         <Finance>
-          <Value_0002>
+          <Value2>
              $23,657
-          </Value_0002>
-          <Title_0001>
+          </Value2>
+          <Title1>
             Finance
-          </Title_0001>
+          </Title1>
         </Finance>
         <Business>
-          <Value_0003>
+          <Value3>
             $21,987
-          </Value_0003>
-          <Title_0002>
+          </Value3>
+          <Title2>
             Business
-          </Title_0002>
+          </Title2>
         </Business>
         <Development>
-          <Value_0004>
+          <Value4>
             $31,657
-          </Value_0004>
-          <Title_0003>
+          </Value4>
+          <Title3>
             Development
-          </Title_0003>
+          </Title3>
         </Development>
       </BigWidgetBubbleChart>
-      <Title_0004>
+      <Title4>
         Design faster
-      </Title_0004>
-      <Bubble_0018/>
-      <Bubble_0019/>
-      <Bubble_0020/>
-      <Bubble_0021/>
-      <Bubble_0022/>
+      </Title4>
+      <Bubble18/>
+      <Bubble19/>
+      <Bubble20/>
+      <Bubble21/>
+      <Bubble22/>
       <Timeline>
         Timeline
       </Timeline>
-      <Timeline_0001>
+      <Timeline1>
         <BackgroundElement/>
         <DateRangePicker>
           <TimePeriod>
@@ -101,9 +101,9 @@ export function HEXSECOND() {
           </TimePeriod>
           <TimePeriod>
             <Hover/>
-            <Period_0002>
+            <Period3>
               3M
-            </Period_0002>
+            </Period3>
           </TimePeriod>
           <TimePeriod>
             <Period>
@@ -116,9 +116,9 @@ export function HEXSECOND() {
             </Period>
           </TimePeriod>
         </DateRangePicker>
-      </Timeline_0001>
+      </Timeline1>
       <NavigationBar>
-        <Background_0001/>
+        <Background1/>
         <Search>
           <Input/>
           <Icon src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c17991d8-b840-4db1-8b41-d1eb6ef88596" alt="icon"/>
@@ -128,9 +128,9 @@ export function HEXSECOND() {
           <Label>
             Statistics
           </Label>
-          <Label_0001>
+          <Label1>
             Overview
-          </Label_0001>
+          </Label1>
           <Label>
             Dashboard
           </Label>
@@ -141,7 +141,7 @@ export function HEXSECOND() {
         <Profile src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/802ce618-4c22-4041-bfd5-309623fbc429" alt="icon"/>
         <Option src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4cce2485-4594-4fdd-81b3-e2b65d5bbfbf" alt="icon"/>
         <Logo>
-          <Logo_0001/>
+          <Logo1/>
           <Orion>
             ORION
           </Orion>
@@ -152,58 +152,58 @@ export function HEXSECOND() {
         <OrionDataVisualisation>
           Orion data visualisation
         </OrionDataVisualisation>
-        <_2019>
+        <Year2019>
           2022
-        </_2019>
+        </Year2019>
       </Footer>
       <InformerTrendGoods>
-        <Value_0005>
+        <Value5>
           204
-        </Value_0005>
-        <Title_0005>
+        </Value5>
+        <Title5>
           Trend goods
-        </Title_0005>
-        <Icon_0001>
+        </Title5>
+        <Icon1>
           <Stroke/>
           <Favorite src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/df09f9c9-2787-4609-8c63-64220379b988" alt="icon"/>
-        </Icon_0001>
+        </Icon1>
       </InformerTrendGoods>
-      <InformerTrendGoods_0001>
-        <Value_0006>
+      <InformerTrendGoods1>
+        <Value6>
           65,540
-        </Value_0006>
-        <Title_0006>
+        </Value6>
+        <Title6>
           Shopping views
-        </Title_0006>
-        <Icon_0001>
+        </Title6>
+        <Icon1>
           <Stroke/>
           <Eye src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/154fc9ba-ffbf-4bd6-9332-9ab9fd5429b0" alt="icon"/>
-        </Icon_0001>
-      </InformerTrendGoods_0001>
-      <InformerTrendGoods_0002>
-        <Value_0007>
+        </Icon1>
+      </InformerTrendGoods1>
+      <InformerTrendGoods2>
+        <Value7>
           324
-        </Value_0007>
-        <Title_0007>
+        </Value7>
+        <Title7>
           Store dynamics
-        </Title_0007>
-        <Icon_0001>
+        </Title7>
+        <Icon1>
           <Stroke/>
           <Chart src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ffd5ef87-6f91-41a4-9f56-b1c93cf92987" alt="icon"/>
-        </Icon_0001>
-      </InformerTrendGoods_0002>
+        </Icon1>
+      </InformerTrendGoods2>
       <PanelGroup>
         <Zoom>
-          <Bg_0001/>
+          <Bg1/>
           <Plus src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a1f13ee1-1db9-424b-b93e-f94321a5abb0" alt="icon"/>
           <Minus src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0a080419-0af3-4231-9d90-43fea88f5ee9" alt="icon"/>
         </Zoom>
         <Map>
-          <Bg_0001/>
-          <Map_0001 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4c091d0c-0c9f-4da6-a171-696e16b40774" alt="icon"/>
+          <Bg1/>
+          <Map1 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4c091d0c-0c9f-4da6-a171-696e16b40774" alt="icon"/>
         </Map>
         <Tool>
-          <Bg_0001/>
+          <Bg1/>
           <Node src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5ad58b26-6020-4da8-b60f-1bbfa7b73628" alt="icon"/>
           <Element src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9bf5fc81-4b06-4a52-91d6-0a514ab9353c" alt="icon"/>
           <Path src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e5e84d9e-9ba8-46eb-bb64-a644a8a80754" alt="icon"/>
@@ -212,23 +212,23 @@ export function HEXSECOND() {
       <WidgetMSizeCombinedCircleChartWithDynamicTable>
         <Graph>
           <ChartDoubleBigCircleChart>
-            <Chart_0001>
+            <Chart1>
               <ChartBg src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/33f5f3d6-6b05-45da-be83-67c8f26e12bb" alt="image from ellipse"/>
-              <ChartBg_0001 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bb5ac544-f83f-4d30-9e06-434b9eac2c6b" alt="image from ellipse"/>
+              <ChartBg1 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bb5ac544-f83f-4d30-9e06-434b9eac2c6b" alt="image from ellipse"/>
               <Progress1 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/eb55b3a7-d67e-456c-aa28-7b1eeffbe25e" alt="image from ellipse"/>
               <Progress2 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5fd26401-6135-40d9-a807-0e1e6ab049c1" alt="image from ellipse"/>
               <Progress2 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b650685d-91a1-4cf1-a96d-06109a21f9cf" alt="image from ellipse"/>
-              <Bg_0004/>
-            </Chart_0001>
-            <Icon_0004 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1f19fa72-8aaf-4423-bec0-1bdbbbfbbb3b" alt="icon"/>
+              <Bg4/>
+            </Chart1>
+            <Icon4 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1f19fa72-8aaf-4423-bec0-1bdbbbfbbb3b" alt="icon"/>
           </ChartDoubleBigCircleChart>
           <Info>
-            <Title_0008>
+            <Title8>
               <Name>
                 Total earning
               </Name>
-            </Title_0008>
-            <Value_0008>
+            </Title8>
+            <Value8>
               <Amount>
                 $12,875
               </Amount>
@@ -242,7 +242,7 @@ export function HEXSECOND() {
                   2%
                 </Percent>
               </Indicator>
-            </Value_0008>
+            </Value8>
             <Detail>
               Compared to $21,504 last year
             </Detail>
@@ -250,117 +250,117 @@ export function HEXSECOND() {
         </Graph>
         <Table>
           <Row>
-            <Name_0001>
+            <Name1>
               Presentation
-            </Name_0001>
-            <Amount_0001>
+            </Name1>
+            <Amount1>
               862
-            </Amount_0001>
-            <Graph_0001>
+            </Amount1>
+            <Graph1>
               <Column/>
-              <Column_0001/>
-              <Column_0002/>
-              <Column_0003/>
-              <Chart_0002 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2a8fa104-6246-47b4-a36f-ccd2cf80f2dc" alt="image of Chart"/>
-            </Graph_0001>
+              <Column1/>
+              <Column2/>
+              <Column3/>
+              <Chart2 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2a8fa104-6246-47b4-a36f-ccd2cf80f2dc" alt="image of Chart"/>
+            </Graph1>
           </Row>
           <Row>
-            <Name_0001>
+            <Name1>
               Development
-            </Name_0001>
-            <Amount_0001>
+            </Name1>
+            <Amount1>
               753
-            </Amount_0001>
-            <Graph_0001>
+            </Amount1>
+            <Graph1>
               <Column/>
-              <Column_0001/>
-              <Column_0002/>
-              <Column_0003/>
-              <Chart_0002 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a7b4a474-6130-42b1-bdfa-2ac4e87fc9ea" alt="image of Chart"/>
-            </Graph_0001>
+              <Column1/>
+              <Column2/>
+              <Column3/>
+              <Chart2 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a7b4a474-6130-42b1-bdfa-2ac4e87fc9ea" alt="image of Chart"/>
+            </Graph1>
           </Row>
           <Row>
-            <Name_0001>
+            <Name1>
               Research
-            </Name_0001>
-            <Amount_0001>
+            </Name1>
+            <Amount1>
               553
-            </Amount_0001>
-            <Graph_0001>
+            </Amount1>
+            <Graph1>
               <Column/>
-              <Column_0001/>
-              <Column_0002/>
-              <Column_0003/>
-              <Chart_0004 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/69579948-a41c-4228-810d-e52f1ce0d936" alt="image of Chart"/>
-            </Graph_0001>
+              <Column1/>
+              <Column2/>
+              <Column3/>
+              <Chart4 src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/69579948-a41c-4228-810d-e52f1ce0d936" alt="image of Chart"/>
+            </Graph1>
           </Row>
         </Table>
       </WidgetMSizeCombinedCircleChartWithDynamicTable>
       <WidgetMSizeOmpositeIndex>
         <Informer>
-          <Title_0009>
-            <Name_0004>
+          <Title9>
+            <Name4>
               Total earning
-            </Name_0004>
-          </Title_0009>
-          <Value_0008>
-            <Amount_0004>
+            </Name4>
+          </Title9>
+          <Value8>
+            <Amount4>
               $12,875
-            </Amount_0004>
+            </Amount4>
             <Indicator>
               <ArrowUp>
                 <Arrow xmlns="http://www.w3.org/2000/svg">
                   <path fill="rgb(56, 242, 97)" d="M6.00004 0L12 8L0 8L6.00004 0Z"/>
                 </Arrow>
               </ArrowUp>
-              <Percent_0001>
+              <Percent1>
                 10%
-              </Percent_0001>
+              </Percent1>
             </Indicator>
-          </Value_0008>
-          <Detail_0001>
+          </Value8>
+          <Detail1>
             Compared to $21,490 last year
-          </Detail_0001>
+          </Detail1>
         </Informer>
         <Divider src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/16353797-5bae-41fb-8471-718486e9827a" alt="image of Divider"/>
         <Informer>
-          <Title_0009>
-            <Name_0005>
+          <Title9>
+            <Name5>
               Sales
-            </Name_0005>
-          </Title_0009>
-          <Value_0008>
-            <Amount_0004>
+            </Name5>
+          </Title9>
+          <Value8>
+            <Amount4>
               $43,123
-            </Amount_0004>
+            </Amount4>
             <Indicator>
               <ArrowUp>
                 <Arrow xmlns="http://www.w3.org/2000/svg">
                   <path fill="rgb(56, 242, 97)" d="M6.00004 0L12 8L0 8L6.00004 0Z"/>
                 </Arrow>
               </ArrowUp>
-              <Percent_0001>
+              <Percent1>
                 12%
-              </Percent_0001>
+              </Percent1>
             </Indicator>
-          </Value_0008>
-          <Detail_0001>
+          </Value8>
+          <Detail1>
             Compared to $21,490 last year
-          </Detail_0001>
+          </Detail1>
         </Informer>
       </WidgetMSizeOmpositeIndex>
       <TableIndicatorTable>
-        <Row_0003>
+        <Row3>
           <Summary>
-            <Name_0006>
+            <Name6>
               Travel
-            </Name_0006>
-            <Amount_0006>
+            </Name6>
+            <Amount6>
               760
-            </Amount_0006>
-            <Summary_0001>
+            </Amount6>
+            <Summary1>
               2,540
-            </Summary_0001>
+            </Summary1>
           </Summary>
           <Status>
             <ArrowUp>
@@ -369,18 +369,18 @@ export function HEXSECOND() {
               </Arrow>
             </ArrowUp>
           </Status>
-        </Row_0003>
-        <Row_0003>
+        </Row3>
+        <Row3>
           <Summary>
-            <Name_0006>
+            <Name6>
               Presentation
-            </Name_0006>
-            <Amount_0006>
+            </Name6>
+            <Amount6>
               650
-            </Amount_0006>
-            <Summary_0001>
+            </Amount6>
+            <Summary1>
               2,304
-            </Summary_0001>
+            </Summary1>
           </Summary>
           <Status>
             <ArrowUp>
@@ -389,18 +389,18 @@ export function HEXSECOND() {
               </Arro>
             </ArrowUp>
           </Status>
-        </Row_0003>
-        <Row_0003>
+        </Row3>
+        <Row3>
           <Summary>
-            <Name_0006>
+            <Name6>
               Business
-            </Name_0006>
-            <Amount_0006>
+            </Name6>
+            <Amount6>
               612
-            </Amount_0006>
-            <Summary_0001>
+            </Amount6>
+            <Summary1>
               2,140
-            </Summary_0001>
+            </Summary1>
           </Summary>
           <Status>
             <ArrowUp>
@@ -409,7 +409,7 @@ export function HEXSECOND() {
               </Arrow>
             </ArrowUp>
           </Status>
-        </Row_0003>
+        </Row3>
       </TableIndicatorTable>
     </RootWrapperBubbleChart>
   )
@@ -451,7 +451,7 @@ const BgLines = styled.div`
 	bottom: 65px;
 `;
 
-const BgLines_0001 = styled.div`
+const BgLines1 = styled.div`
 	border-radius: 778px / 778px;
 	position: absolute;
 	left: 54px;
@@ -460,7 +460,7 @@ const BgLines_0001 = styled.div`
 	bottom: 0px;
 `;
 
-const BubbleChart_0001 = styled.div`
+const BubbleChart1 = styled.div`
 	width: 863px;
 	height: 543px;
 	position: absolute;
@@ -479,7 +479,7 @@ const Bubble = styled.div`
 	bottom: 132px;
 `;
 
-const Bubble_0001 = styled.div`
+const Bubble1 = styled.div`
 	box-shadow: 0px 4px 30px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 157, 203, 0.33),0px -20px 50px  rgba(255, 255, 255, 0.53),10px 20px 100px  rgb(255, 135, 119);
 	background: radial-gradient(rgb(255, 227, 211), rgba(179, 0, 183, 0));
 	border-radius: 120px / 120px;
@@ -490,7 +490,7 @@ const Bubble_0001 = styled.div`
 	bottom: 218px;
 `;
 
-const Bubble_0002 = styled.div`
+const Bubble2 = styled.div`
 	box-shadow: 0px 4px 20px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 180, 215, 0.33),0px -20px 20px  rgba(255, 255, 255, 0.23),10px 20px 100px  rgb(88, 61, 255);
 	background: radial-gradient(rgb(255, 227, 211), rgba(179, 0, 183, 0));
 	border-radius: 63px / 63px;
@@ -501,7 +501,7 @@ const Bubble_0002 = styled.div`
 	bottom: 341px;
 `;
 
-const Bubble_0003 = styled.div`
+const Bubble3 = styled.div`
 	box-shadow: 0px 4px 20px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 180, 215, 0.33),0px -20px 20px  rgba(255, 255, 255, 0.23),10px 20px 100px  rgb(88, 61, 255);
 	background: radial-gradient(rgb(255, 227, 211), rgba(179, 0, 183, 0));
 	border-radius: 87px / 87px;
@@ -512,7 +512,7 @@ const Bubble_0003 = styled.div`
 	bottom: 388px;
 `;
 
-const Bubble_0004 = styled.div`
+const Bubble4 = styled.div`
 	box-shadow: 0px 4px 20px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 180, 215, 0.33),0px -20px 20px  rgba(255, 255, 255, 0.23),10px 20px 100px  rgb(88, 61, 255);
 	background: radial-gradient(rgb(255, 227, 211), rgba(179, 0, 183, 0));
 	border-radius: 60px / 60px;
@@ -523,7 +523,7 @@ const Bubble_0004 = styled.div`
 	bottom: 208px;
 `;
 
-const Bubble_0005 = styled.div`
+const Bubble5 = styled.div`
 	box-shadow: 0px 4px 80px  rgba(248, 0, 119, 0.48),0px 2px 10px  rgba(255, 255, 255, 0.58);
 	background: radial-gradient(rgb(50, 68, 232), rgba(0, 2, 16, 0));
 	border-radius: 20px / 20px;
@@ -534,7 +534,7 @@ const Bubble_0005 = styled.div`
 	bottom: 372px;
 `;
 
-const Bubble_0006 = styled.div`
+const Bubble6 = styled.div`
 	box-shadow: 0px 4px 80px  rgba(248, 0, 119, 0.48),0px 2px 10px  rgba(255, 255, 255, 0.58);
 	background: radial-gradient(rgb(50, 68, 232), rgba(0, 2, 16, 0));
 	border-radius: 20px / 20px;
@@ -545,7 +545,7 @@ const Bubble_0006 = styled.div`
 	bottom: 161px;
 `;
 
-const Bubble_0007 = styled.div`
+const Bubble7 = styled.div`
 	box-shadow: 0px 4px 80px  rgba(248, 0, 119, 0.48),0px 2px 10px  rgba(255, 255, 255, 0.58);
 	background: radial-gradient(rgb(50, 68, 232), rgba(0, 2, 16, 0));
 	border-radius: 20px / 20px;
@@ -556,7 +556,7 @@ const Bubble_0007 = styled.div`
 	bottom: 458px;
 `;
 
-const Bubble_0008 = styled.div`
+const Bubble8 = styled.div`
 	box-shadow: 0px 4px 80px  rgba(248, 0, 119, 0.48),0px 2px 10px  rgba(255, 255, 255, 0.58);
 	background: radial-gradient(rgb(50, 68, 232), rgba(0, 2, 16, 0));
 	border-radius: 20px / 20px;
@@ -567,7 +567,7 @@ const Bubble_0008 = styled.div`
 	bottom: 93px;
 `;
 
-const Bubble_0009 = styled.div`
+const Bubble9 = styled.div`
 	box-shadow: 0px 2px 10px  rgba(255, 255, 255, 0.58),0px -6px 10px  rgba(63, 209, 255, 0.67),10px 16px 20px  rgba(0, 133, 255, 0.95);
 	background: radial-gradient(rgb(106, 228, 255), rgba(74, 147, 255, 0));
 	border-radius: 60px / 60px;
@@ -578,7 +578,7 @@ const Bubble_0009 = styled.div`
 	bottom: 319px;
 `;
 
-const Bubble_0010 = styled.div`
+const Bubble10 = styled.div`
 	box-shadow: 0px 4px 80px  rgb(35, 0, 248),0px 2px 10px  rgba(255, 255, 255, 0.58),10px 16px 20px  rgba(130, 5, 255, 0.95);
 	background: radial-gradient(rgb(50, 68, 232), rgba(255, 255, 255, 0));
 	border-radius: 60px / 60px;
@@ -589,7 +589,7 @@ const Bubble_0010 = styled.div`
 	bottom: 111px;
 `;
 
-const Bubble_0011 = styled.div`
+const Bubble11 = styled.div`
 	box-shadow: 0px 2px 10px  rgba(255, 255, 255, 0.58),0px -6px 10px  rgba(63, 209, 255, 0.67),10px 16px 20px  rgba(0, 133, 255, 0.95);
 	background: radial-gradient(rgb(106, 228, 255), rgba(74, 147, 255, 0));
 	border-radius: 64px / 64px;
@@ -600,7 +600,7 @@ const Bubble_0011 = styled.div`
 	bottom: 229px;
 `;
 
-const Bubble_0012 = styled.div`
+const Bubble12 = styled.div`
 	box-shadow: 0px 4px 30px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 148, 22, 0.33),0px -20px 50px  rgba(255, 255, 255, 0.53);
 	background: radial-gradient(rgb(255, 184, 77), rgba(119, 43, 0, 0));
 	border-radius: 101px / 101px;
@@ -611,7 +611,7 @@ const Bubble_0012 = styled.div`
 	bottom: 169px;
 `;
 
-const Bubble_0013 = styled.div`
+const Bubble13 = styled.div`
 	box-shadow: 0px 40px 80px  rgba(35, 0, 248, 0.24),0px 2px 10px  rgba(255, 255, 255, 0.58),0px -20px 50px  rgba(124, 161, 255, 0.37),10px 16px 20px  rgba(210, 165, 255, 0.95);
 	background: radial-gradient(rgb(131, 143, 255), rgba(227, 230, 255, 0));
 	border-radius: 101px / 101px;
@@ -622,7 +622,7 @@ const Bubble_0013 = styled.div`
 	bottom: 199px;
 `;
 
-const Bubble_0014 = styled.div`
+const Bubble14 = styled.div`
 	box-shadow: 0px 4px 30px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 157, 203, 0.33),0px -20px 50px  rgba(255, 255, 255, 0.53),10px 20px 100px  rgb(255, 135, 119);
 	background: radial-gradient(rgb(255, 227, 211), rgba(179, 0, 183, 0));
 	border-radius: 117px / 117px;
@@ -633,7 +633,7 @@ const Bubble_0014 = styled.div`
 	bottom: 27px;
 `;
 
-const Bubble_0015 = styled.div`
+const Bubble15 = styled.div`
 	box-shadow: 0px 4px 30px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 157, 203, 0.33),0px -20px 50px  rgba(255, 255, 255, 0.53),10px 20px 100px  rgb(255, 135, 119);
 	background: radial-gradient(rgb(255, 227, 211), rgba(179, 0, 183, 0));
 	border-radius: 175px / 175px;
@@ -644,7 +644,7 @@ const Bubble_0015 = styled.div`
 	bottom: 0px;
 `;
 
-const Bubble_0016 = styled.div`
+const Bubble16 = styled.div`
 	box-shadow: 0px 4px 30px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 157, 203, 0.33),0px -20px 50px  rgba(255, 255, 255, 0.53),10px 20px 100px  rgb(255, 135, 119);
 	background: radial-gradient(rgb(255, 227, 211), rgba(179, 0, 183, 0));
 	border-radius: 143px / 143px;
@@ -655,7 +655,7 @@ const Bubble_0016 = styled.div`
 	bottom: 290px;
 `;
 
-const Bubble_0017 = styled.div`
+const Bubble17 = styled.div`
 	box-shadow: 0px 4px 30px  rgba(255, 255, 255, 0.76),0px 0px 20px  rgba(255, 255, 255, 0.13),60px 120px 80px  rgba(255, 157, 203, 0.33),0px -20px 50px  rgba(255, 255, 255, 0.53),10px 20px 100px  rgb(255, 135, 119);
 	background: radial-gradient(rgb(255, 227, 211), rgba(179, 0, 183, 0));
 	border-radius: 143px / 143px;
@@ -727,7 +727,7 @@ const Design = styled.div`
 	top: 538px;
 `;
 
-const Time_0001 = styled.span`
+const Time1 = styled.span`
 	color: rgb(120, 120, 182);
 	text-overflow: ellipsis;
 	font-size: 14px;
@@ -742,7 +742,7 @@ const Time_0001 = styled.span`
 	bottom: 0px;
 `;
 
-const Value_0001 = styled.span`
+const Value1 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 20px;
@@ -780,7 +780,7 @@ const Finance = styled.div`
 	top: 161px;
 `;
 
-const Value_0002 = styled.span`
+const Value2 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -795,7 +795,7 @@ const Value_0002 = styled.span`
 	bottom: 0px;
 `;
 
-const Title_0001 = styled.span`
+const Title1 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 12px;
@@ -818,7 +818,7 @@ const Business = styled.div`
 	top: 354px;
 `;
 
-const Value_0003 = styled.span`
+const Value3 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -833,7 +833,7 @@ const Value_0003 = styled.span`
 	bottom: 0px;
 `;
 
-const Title_0002 = styled.span`
+const Title2 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 12px;
@@ -856,7 +856,7 @@ const Development = styled.div`
 	top: 272px;
 `;
 
-const Value_0004 = styled.span`
+const Value4 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -871,7 +871,7 @@ const Value_0004 = styled.span`
 	bottom: 0px;
 `;
 
-const Title_0003 = styled.span`
+const Title3 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 12px;
@@ -886,7 +886,7 @@ const Title_0003 = styled.span`
 	bottom: 27px;
 `;
 
-const Title_0004 = styled.span`
+const Title4 = styled.span`
 	color: black;
 	text-overflow: ellipsis;
 	font-size: 34px;
@@ -899,7 +899,7 @@ const Title_0004 = styled.span`
 	top: calc((calc((50% + -427px)) - 22px));
 `;
 
-const Bubble_0018 = styled.div`
+const Bubble18 = styled.div`
 	width: 105px;
 	height: 105px;
 	box-shadow: 0px 40px 80px  rgba(35, 0, 248, 0.24),0px 2px 10px  rgba(255, 255, 255, 0.58),0px -20px 50px  rgba(124, 161, 255, 0.37),10px 16px 20px  rgba(130, 5, 255, 0.95);
@@ -910,7 +910,7 @@ const Bubble_0018 = styled.div`
 	top: calc((calc((50% + -228px)) - 53px));
 `;
 
-const Bubble_0019 = styled.div`
+const Bubble19 = styled.div`
 	box-shadow: 0px 40px 80px  rgba(35, 0, 248, 0.53),0px 2px 10px  rgba(255, 255, 255, 0.58),0px -20px 50px  rgba(124, 161, 255, 0.37),10px 16px 20px  rgba(130, 5, 255, 0.95);
 	background: radial-gradient(rgb(131, 143, 255), rgba(227, 230, 255, 0));
 	border-radius: 75px / 75px;
@@ -921,7 +921,7 @@ const Bubble_0019 = styled.div`
 	bottom: 349px;
 `;
 
-const Bubble_0020 = styled.div`
+const Bubble20 = styled.div`
 	width: 61px;
 	height: 61px;
 	box-shadow: 0px 50px 80px  rgba(35, 0, 248, 0.31),0px 2px 10px  rgba(255, 255, 255, 0.58),10px 16px 20px  rgba(130, 5, 255, 0.95);
@@ -932,7 +932,7 @@ const Bubble_0020 = styled.div`
 	top: calc((calc((50% + 261px)) - 31px));
 `;
 
-const Bubble_0021 = styled.div`
+const Bubble21 = styled.div`
 	width: 47px;
 	height: 47px;
 	box-shadow: 0px 4px 80px  rgba(35, 0, 248, 0.46),0px 2px 10px  rgba(255, 255, 255, 0.58),10px 16px 20px  rgba(130, 5, 255, 0.95);
@@ -943,7 +943,7 @@ const Bubble_0021 = styled.div`
 	top: calc((calc((50% + -298px)) - 24px));
 `;
 
-const Bubble_0022 = styled.div`
+const Bubble22 = styled.div`
 	width: 47px;
 	height: 47px;
 	box-shadow: 0px 4px 80px  rgba(35, 0, 248, 0.46),0px 2px 10px  rgba(255, 255, 255, 0.58),10px 16px 20px  rgba(130, 5, 255, 0.95);
@@ -969,7 +969,7 @@ const Timeline = styled.span`
 	top: 95px;
 `;
 
-const Timeline_0001 = styled.div`
+const Timeline1 = styled.div`
 	width: 351px;
 	height: 36px;
 	position: absolute;
@@ -1031,7 +1031,7 @@ const Hover = styled.div`
 	bottom: 0px;
 `;
 
-const Period_0002 = styled.span`
+const Period3 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 13px;
@@ -1052,7 +1052,7 @@ const NavigationBar = styled.div`
 	right: 0px;
 `;
 
-const Background_0001 = styled.div`
+const Background1 = styled.div`
 	background-color: white;
 	position: absolute;
 	left: 0px;
@@ -1121,7 +1121,7 @@ const Label = styled.span`
 	text-align: left;
 `;
 
-const Label_0001 = styled.span`
+const Label1 = styled.span`
 	color: black;
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1158,7 +1158,7 @@ const Logo = styled.div`
 	top: 14px;
 `;
 
-const Logo_0001 = styled.div`
+const Logo1 = styled.div`
 	width: 21px;
 	height: 21px;
 	border-radius: 21px / 21px;
@@ -1211,7 +1211,7 @@ const OrionDataVisualisation = styled.span`
 	top: calc((calc((50% + 0px)) - 8px));
 `;
 
-const _2019 = styled.span`
+const Year2019 = styled.span`
 	color: rgb(90, 90, 137);
 	text-overflow: ellipsis;
 	font-size: 10px;
@@ -1234,7 +1234,7 @@ const InformerTrendGoods = styled.div`
 	bottom: 89px;
 `;
 
-const Value_0005 = styled.span`
+const Value5 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 60px;
@@ -1248,7 +1248,7 @@ const Value_0005 = styled.span`
 	top: 66px;
 `;
 
-const Title_0005 = styled.span`
+const Title5 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 10px;
@@ -1263,7 +1263,7 @@ const Title_0005 = styled.span`
 	top: 62px;
 `;
 
-const Icon_0001 = styled.div`
+const Icon1 = styled.div`
 	width: 46px;
 	height: 46px;
 	position: absolute;
@@ -1291,7 +1291,7 @@ const Favorite = styled.img`
 	top: 11px;
 `;
 
-const InformerTrendGoods_0001 = styled.div`
+const InformerTrendGoods1 = styled.div`
 	height: 146px;
 	position: absolute;
 	left: 1072px;
@@ -1299,7 +1299,7 @@ const InformerTrendGoods_0001 = styled.div`
 	bottom: 89px;
 `;
 
-const Value_0006 = styled.span`
+const Value6 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 60px;
@@ -1313,7 +1313,7 @@ const Value_0006 = styled.span`
 	top: 66px;
 `;
 
-const Title_0006 = styled.span`
+const Title6 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 10px;
@@ -1337,7 +1337,7 @@ const Eye = styled.img`
 	top: 11px;
 `;
 
-const InformerTrendGoods_0002 = styled.div`
+const InformerTrendGoods2 = styled.div`
 	height: 146px;
 	position: absolute;
 	left: 1362px;
@@ -1345,7 +1345,7 @@ const InformerTrendGoods_0002 = styled.div`
 	bottom: 89px;
 `;
 
-const Value_0007 = styled.span`
+const Value7 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 60px;
@@ -1359,7 +1359,7 @@ const Value_0007 = styled.span`
 	top: 66px;
 `;
 
-const Title_0007 = styled.span`
+const Title7 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 10px;
@@ -1399,7 +1399,7 @@ const Zoom = styled.div`
 	top: 0px;
 `;
 
-const Bg_0001 = styled.div`
+const Bg1 = styled.div`
 	box-shadow: 0px 100px 80px  rgba(108, 73, 172, 0.07),0px 42px 33px  rgba(108, 73, 172, 0.05),0px 22px 18px  rgba(108, 73, 172, 0.04),0px 13px 10px  rgba(108, 73, 172, 0.04),0px 7px 5px  rgba(108, 73, 172, 0.03),0px 3px 2px  rgba(108, 73, 172, 0.02);
 	background-color: white;
 	border-radius: 8px;
@@ -1436,7 +1436,7 @@ const Map = styled.div`
 	top: 106px;
 `;
 
-const Map_0001 = styled.img`
+const Map1 = styled.img`
 	width: 24px;
 	height: 24px;
 	object-fit: cover;
@@ -1517,7 +1517,7 @@ const ChartDoubleBigCircleChart = styled.div`
 	position: relative;
 `;
 
-const Chart_0001 = styled.div`
+const Chart1 = styled.div`
 	width: 146px;
 	height: 146px;
 	position: absolute;
@@ -1536,7 +1536,7 @@ const ChartBg = styled.img`
 	transform-origin: top left;
 `;
 
-const ChartBg_0001 = styled.img`
+const ChartBg1 = styled.img`
 	object-fit: contain;
 	position: absolute;
 	left: 22px;
@@ -1569,7 +1569,7 @@ const Progress2 = styled.img`
 	transform-origin: top left;
 `;
 
-const Bg_0004 = styled.div`
+const Bg4 = styled.div`
 	background-color: rgb(244, 246, 255);
 	border-radius: 59px / 59px;
 	position: absolute;
@@ -1579,7 +1579,7 @@ const Bg_0004 = styled.div`
 	bottom: 44px;
 `;
 
-const Icon_0004 = styled.img`
+const Icon4 = styled.img`
 	width: 26px;
 	height: 26px;
 	object-fit: cover;
@@ -1597,7 +1597,7 @@ const Info = styled.div`
 	box-sizing: border-box;
 `;
 
-const Title_0008 = styled.div`
+const Title8 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: column;
@@ -1617,7 +1617,7 @@ const Name = styled.span`
 	width: 231px;
 `;
 
-const Value_0008 = styled.div`
+const Value8 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1711,7 +1711,7 @@ const Row = styled.div`
 	box-sizing: border-box;
 `;
 
-const Name_0001 = styled.span`
+const Name1 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 14px;
@@ -1722,7 +1722,7 @@ const Name_0001 = styled.span`
 	width: 88px;
 `;
 
-const Amount_0001 = styled.span`
+const Amount1 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 14px;
@@ -1734,7 +1734,7 @@ const Amount_0001 = styled.span`
 	opacity: 0.6;
 `;
 
-const Graph_0001 = styled.div`
+const Graph1 = styled.div`
 	width: 68px;
 	height: 21px;
 	position: relative;
@@ -1751,7 +1751,7 @@ const Column = styled.div`
 	opacity: 0.7;
 `;
 
-const Column_0001 = styled.div`
+const Column1 = styled.div`
 	width: 14px;
 	height: 21px;
 	background-color: rgb(219, 223, 241);
@@ -1762,7 +1762,7 @@ const Column_0001 = styled.div`
 	opacity: 0.7;
 `;
 
-const Column_0002 = styled.div`
+const Column2 = styled.div`
 	width: 14px;
 	height: 21px;
 	background-color: rgb(219, 223, 241);
@@ -1773,7 +1773,7 @@ const Column_0002 = styled.div`
 	opacity: 0.7;
 `;
 
-const Column_0003 = styled.div`
+const Column3 = styled.div`
 	width: 17px;
 	height: 21px;
 	background-color: rgb(219, 223, 241);
@@ -1784,7 +1784,7 @@ const Column_0003 = styled.div`
 	opacity: 0.7;
 `;
 
-const Chart_0002 = styled.img`
+const Chart2 = styled.img`
 	width: 68px;
 	height: 11px;
 	object-fit: cover;
@@ -1793,7 +1793,7 @@ const Chart_0002 = styled.img`
 	top: 5px;
 `;
 
-const Chart_0004 = styled.img`
+const Chart4 = styled.img`
 	width: 67px;
 	height: 8px;
 	object-fit: cover;
@@ -1830,7 +1830,7 @@ const Informer = styled.div`
 	box-sizing: border-box;
 `;
 
-const Title_0009 = styled.div`
+const Title9 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: column;
@@ -1840,7 +1840,7 @@ const Title_0009 = styled.div`
 	box-sizing: border-box;
 `;
 
-const Name_0004 = styled.span`
+const Name4 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1851,7 +1851,7 @@ const Name_0004 = styled.span`
 	width: 135px;
 `;
 
-const Amount_0004 = styled.span`
+const Amount4 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 34px;
@@ -1861,7 +1861,7 @@ const Amount_0004 = styled.span`
 	text-align: left;
 `;
 
-const Percent_0001 = styled.span`
+const Percent1 = styled.span`
 	color: rgb(56, 242, 97);
 	text-overflow: ellipsis;
 	font-size: 14px;
@@ -1873,7 +1873,7 @@ const Percent_0001 = styled.span`
 	min-height: 26px;
 `;
 
-const Detail_0001 = styled.span`
+const Detail1 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 12px;
@@ -1891,7 +1891,7 @@ const Divider = styled.img`
 	object-fit: cover;
 `;
 
-const Name_0005 = styled.span`
+const Name5 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1920,7 +1920,7 @@ const TableIndicatorTable = styled.div`
 	height: 128px;
 `;
 
-const Row_0003 = styled.div`
+const Row3 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1940,7 +1940,7 @@ const Summary = styled.div`
 	box-sizing: border-box;
 `;
 
-const Name_0006 = styled.span`
+const Name6 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 14px;
@@ -1951,7 +1951,7 @@ const Name_0006 = styled.span`
 	width: 98px;
 `;
 
-const Amount_0006 = styled.span`
+const Amount6 = styled.span`
 	color: rgb(146, 146, 193);
 	text-overflow: ellipsis;
 	font-size: 14px;
@@ -1962,7 +1962,7 @@ const Amount_0006 = styled.span`
 	width: 50px;
 `;
 
-const Summary_0001 = styled.span`
+const Summary1 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 14px;

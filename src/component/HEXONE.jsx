@@ -7,86 +7,86 @@ export function HEXONE() {
       <WidgetLSizeTimelineChart>
         <Info>
           <Value>
-            <Value_0001>
+            <Value1>
               <Title>Sales Figures</Title>
-              <Value_0002>$10,430</Value_0002>
-            </Value_0001>
+              <Value2>$10,430</Value2>
+            </Value1>
           </Value>
         </Info>
         <Graph>
           <Chart>
             <Column />
-            <Column_0001 />
-            <Column_0002 />
-            <Column_0003 />
-            <Column_0004 />
-            <Column_0005 />
-            <Column_0004 />
-            <Column_0007 />
-            <Column_0008 />
-            <Column_0003 />
-            <Column_0003 />
-            <Column_0007 />
-            <Column_0003 />
-            <Column_0013 />
-            <Column_0014 />
-            <Column_0015 />
-            <Column_0016 />
-            <Column_0014 />
-            <Column_0018 />
-            <Column_0019 />
-            <Column_0020 />
-            <Column_0021 />
-            <Column_0022 />
-            <Column_0023 />
-            <Column_0024 />
-            <Column_0018 />
-            <Column_0026 />
-            <Column_0026 />
-            <Column_0028 />
-            <Column_0026 />
-            <Column_0016 />
-            <Column_0031 />
-            <Column_0014 />
-            <Column_0014 />
-            <Column_0016 />
-            <Column_0014 />
-            <Column_0013 />
-            <Column_0014 />
-            <Column_0015 />
-            <Column_0016 />
-            <Column_0014 />
-            <Column_0014 />
-            <Column_0042 />
-            <Column_0031 />
-            <Column_0015 />
-            <Column_0015 />
+            <Column1 />
+            <Column2 />
+            <Column3 />
+            <Column4 />
+            <Column5 />
+            <Column4 />
+            <Column7 />
+            <Column8 />
+            <Column3 />
+            <Column3 />
+            <Column7 />
+            <Column3 />
+            <Column13 />
+            <Column14 />
+            <Column15 />
+            <Column16 />
+            <Column14 />
+            <Column18 />
+            <Column19 />
+            <Column20 />
+            <Column21 />
+            <Column22 />
+            <Column23 />
+            <Column24 />
+            <Column18 />
+            <Column26 />
+            <Column26 />
+            <Column28 />
+            <Column26 />
+            <Column16 />
+            <Column31 />
+            <Column14 />
+            <Column14 />
+            <Column16 />
+            <Column14 />
+            <Column13 />
+            <Column14 />
+            <Column15 />
+            <Column16 />
+            <Column14 />
+            <Column14 />
+            <Column42 />
+            <Column31 />
+            <Column15 />
+            <Column15 />
             <Column />
-            <Column_0001 />
-            <Column_0002 />
-            <Column_0003 />
-            <Column_0050 />
-            <Column_0050 />
-            <Column_0052 />
-            <Column_0050 />
-            <Column_0054 />
-            <Column_0055 />
-            <Column_0015 />
-            <Column_0015 />
-            <Column_0054 />
-            <Column_0015 />
-            <Column_0060 />
-            <Column_0015 />
-            <Column_0013 />
-            <Column_0054 />
-            <Column_0054 />
-            <Column_0054 />
-            <Column_0054 />
-            <Column_0015 />
-            <Column_0068 />
-            <Column_0068 />
-            <Column_0070 />
-            <Column_0071 />
+            <Column1 />
+            <Column2 />
+            <Column3 />
+            <Column50 />
+            <Column50 />
+            <Column52 />
+            <Column50 />
+            <Column54 />
+            <Column55 />
+            <Column15 />
+            <Column15 />
+            <Column54 />
+            <Column15 />
+            <Column60 />
+            <Column15 />
+            <Column13 />
+            <Column54 />
+            <Column54 />
+            <Column54 />
+            <Column54 />
+            <Column15 />
+            <Column68 />
+            <Column68 />
+            <Column70 />
+            <Column71 />
           </Chart>
           <Line>
             <Bg />
@@ -107,7 +107,7 @@ export function HEXONE() {
         <Tab />
         <Menu>
           <Label>Statistics</Label>
-          <Label_0001>Overview</Label_0001>
+          <Label1>Overview</Label1>
           <Label>Dashboard</Label>
           <Label>Analytics</Label>
         </Menu>
@@ -120,90 +120,90 @@ export function HEXONE() {
           alt="icon"
         />
         <Logo>
-          <Logo_0001 />
+          <Logo1 />
           <Name>ORION</Name>
         </Logo>
       </NavigationBar>
       <Footer>
-        <Bg_0001 />
+        <Bg1 />
         <OrionDataVisualisation>Orion data visualisation</OrionDataVisualisation>
-        <_2019>2019</_2019>
+        <Year2019>2019</Year2019>
       </Footer>
       <SideIndicators>
         <InformerInfoWithIcon>
-          <Icon_0001>
-            <Background_0001 />
+          <Icon1>
+            <Background1 />
             <Activity
               src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2c733fd4-633b-439a-a4e6-5a81a17e74ff"
               alt="icon"
             />
-          </Icon_0001>
-          <Info_0001>
-            <Title_0001>Total earning</Title_0001>
+          </Icon1>
+          <Info1>
+            <Title1>Total earning</Title1>
             <Amount>
-              <Value_0003>540,549</Value_0003>
+              <Value3>540,549</Value3>
             </Amount>
-          </Info_0001>
+          </Info1>
         </InformerInfoWithIcon>
         <InformerInfoWithIcon>
-          <Icon_0001>
-            <Background_0002 />
+          <Icon1>
+            <Background2 />
             <Crown
               src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3f5ffb4d-530d-4f1d-949d-d0b3d69ba9ec"
               alt="icon"
             />
-          </Icon_0001>
-          <Info_0001>
-            <Title_0001>Sales</Title_0001>
+          </Icon1>
+          <Info1>
+            <Title1>Sales</Title1>
             <Amount>
-              <Value_0003>1,205,677</Value_0003>
+              <Value3>1,205,677</Value3>
             </Amount>
-          </Info_0001>
+          </Info1>
         </InformerInfoWithIcon>
         <InformerInfoWithIcon>
-          <Icon_0001>
-            <Background_0003 />
-            <Chart_0001
+          <Icon1>
+            <Background3 />
+            <Chart1
               src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f8dd30b8-4b84-4def-886c-9b34849b546f"
               alt="icon"
             />
-          </Icon_0001>
-          <Info_0001>
-            <Title_0001>Purchase</Title_0001>
+          </Icon1>
+          <Info1>
+            <Title1>Purchase</Title1>
             <Amount>
-              <Value_0003>48,430,039</Value_0003>
+              <Value3>48,430,039</Value3>
             </Amount>
-          </Info_0001>
+          </Info1>
         </InformerInfoWithIcon>
       </SideIndicators>
       <WidgetMSizeBigCircleChart>
-        <Chart_0002>
+        <Chart2>
           <Percent>27%</Percent>
-          <Background_0004 />
+          <Background4 />
           <Progress
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/92e43bbc-d91a-463b-9a43-fb2f1223c5f9"
             alt="image from ellipse"
           />
-        </Chart_0002>
-        <Info_0004>
-          <Amount_0003>92,980</Amount_0003>
+        </Chart2>
+        <Info4>
+          <Amount3>92,980</Amount3>
           <Detail>Active users</Detail>
-        </Info_0004>
+        </Info4>
       </WidgetMSizeBigCircleChart>
-      <WidgetMSizeBigCircleChart_0001>
-        <Chart_0002>
+      <WidgetMSizeBigCircleChart1>
+        <Chart2>
           <Percent>67%</Percent>
-          <Background_0004 />
+          <Background4 />
           <Progress
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/09b3f05e-88ca-4bd3-b215-8487d9642792"
             alt="image from ellipse"
           />
-        </Chart_0002>
-        <Info_0004>
-          <Amount_0003>22,652</Amount_0003>
+        </Chart2>
+        <Info4>
+          <Amount3>22,652</Amount3>
           <Detail>New users</Detail>
-        </Info_0004>
-      </WidgetMSizeBigCircleChart_0001>
+        </Info4>
+      </WidgetMSizeBigCircleChart1>
       <HexMap />
       <MapPinPinWithName>
         <Tooltip>
@@ -211,274 +211,274 @@ export function HEXONE() {
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/445be46a-9808-4741-ad1b-c214e92e1138"
             alt="icon"
           />
-          <Info_0001>
-            <Title_0004>Chicago</Title_0004>
-            <Amount_0005>98,320,300</Amount_0005>
-          </Info_0001>
+          <Info1>
+            <Title4>Chicago</Title4>
+            <Amount5>98,320,300</Amount5>
+          </Info1>
         </Tooltip>
         <Arrow xmlns="http://www.w3.org/2000/svg">
           <path fill="white" d="M12.8571 0L23.9917 13.5L1.72253 13.5L12.8571 0Z" />
         </Arrow>
       </MapPinPinWithName>
-      <MapPinPinWithName_0001>
-        <Tooltip_0001>
+      <MapPinPinWithName1>
+        <Tooltip1>
           <Indicator
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1cecad4a-528b-4ba1-b64c-5a37ac57cea6"
             alt="icon"
           />
-          <Info_0001>
-            <Title_0004>Manaus</Title_0004>
-            <Amount_0005>12,320,300</Amount_0005>
-          </Info_0001>
-        </Tooltip_0001>
+          <Info1>
+            <Title4>Manaus</Title4>
+            <Amount5>12,320,300</Amount5>
+          </Info1>
+        </Tooltip1>
         <Arrow xmlns="http://www.w3.org/2000/svg">
           <path fill="white" d="M12.8571 0L23.9917 13.5L1.72253 13.5L12.8571 0Z" />
         </Arrow>
-      </MapPinPinWithName_0001>
-      <MapPinPinWithName_0002>
-        <Tooltip_0002>
+      </MapPinPinWithName1>
+      <MapPinPinWithName2>
+        <Tooltip2>
           <Indicator
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/728587e6-5703-4bfd-9061-8f4f4fec4e11"
             alt="icon"
           />
-          <Info_0001>
-            <Title_0004>Berlin</Title_0004>
-            <Amount_0005>76,541,106</Amount_0005>
-          </Info_0001>
-        </Tooltip_0002>
+          <Info1>
+            <Title4>Berlin</Title4>
+            <Amount5>76,541,106</Amount5>
+          </Info1>
+        </Tooltip2>
         <Arrow xmlns="http://www.w3.org/2000/svg">
           <path fill="white" d="M12.8571 0L23.9917 13.5L1.72253 13.5L12.8571 0Z" />
         </Arrow>
-      </MapPinPinWithName_0002>
-      <MapPinPinWithName_0003>
-        <Tooltip_0003>
+      </MapPinPinWithName2>
+      <MapPinPinWithName3>
+        <Tooltip3>
           <Indicator
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4b9acd99-e555-4925-8908-7760c3003959"
             alt="icon"
           />
-          <Info_0001>
-            <Title_0004>Giza</Title_0004>
-            <Amount_0005>10,547,980</Amount_0005>
-          </Info_0001>
-        </Tooltip_0003>
+          <Info1>
+            <Title4>Giza</Title4>
+            <Amount5>10,547,980</Amount5>
+          </Info1>
+        </Tooltip3>
         <Arrow xmlns="http://www.w3.org/2000/svg">
           <path fill="white" d="M12.8571 0L23.9917 13.5L1.72253 13.5L12.8571 0Z" />
         </Arrow>
-      </MapPinPinWithName_0003>
-      <MapPinPinWithName_0004>
+      </MapPinPinWithName3>
+      <MapPinPinWithName4>
         <Tooltip>
           <Indicator
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/43a8de0a-24ab-47a3-877b-86f353a34bf4"
             alt="icon"
           />
-          <Info_0001>
-            <Title_0004>Shanghai</Title_0004>
-            <Amount_0005>239,570,110</Amount_0005>
-          </Info_0001>
+          <Info1>
+            <Title4>Shanghai</Title4>
+            <Amount5>239,570,110</Amount5>
+          </Info1>
         </Tooltip>
         <Arrow xmlns="http://www.w3.org/2000/svg">
           <path fill="white" d="M12.8571 0L23.9917 13.5L1.72253 13.5L12.8571 0Z" />
         </Arrow>
-      </MapPinPinWithName_0004>
-      <MapPinPinWithName_0005>
-        <Tooltip_0005>
+      </MapPinPinWithName4>
+      <MapPinPinWithName5>
+        <Tooltip5>
           <Indicator
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b9fa8bfe-ea0a-4a7f-a849-200970e19403"
             alt="icon"
           />
-          <Info_0001>
-            <Title_0004>Queensland</Title_0004>
-            <Amount_0005>6,097,321</Amount_0005>
-          </Info_0001>
-        </Tooltip_0005>
+          <Info1>
+            <Title4>Queensland</Title4>
+            <Amount5>6,097,321</Amount5>
+          </Info1>
+        </Tooltip5>
         <Arrow xmlns="http://www.w3.org/2000/svg">
           <path fill="white" d="M12.8571 0L23.9917 13.5L1.72253 13.5L12.8571 0Z" />
         </Arrow>
-      </MapPinPinWithName_0005>
+      </MapPinPinWithName5>
       <Footer>
-        <Bg_0001 />
+        <Bg1 />
         <Description>Orion data visualisation</Description>
-        <_2019>2022</_2019>
+        <Year2019>2022</Year2019>
       </Footer>
-      <Amount_0011>2,431,340</Amount_0011>
-      <Title_0010>
-        <Name_0001>All users</Name_0001>
-        <Detail_0002>
-          <Detail_0003>Detail</Detail_0003>
+      <Amount11>2,431,340</Amount11>
+      <Title10>
+        <Namei1>All users</Namei1>
+        <Detail2>
+          <Detail3>Detail</Detail3>
           <Arow
             src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8f80eaa7-30dc-4dfa-9710-e381ac1d3ded"
             alt="icon"
           />
-        </Detail_0002>
-      </Title_0010>
+        </Detail2>
+      </Title10>
       <WidgetLSizeGlobalStatistic>
         <Header>
-          <Title_0011>Sales Figures</Title_0011>
+          <Title11>Sales Figures</Title11>
           <Legend>
             <Shape />
             <MarketingSales>Sales</MarketingSales>
           </Legend>
           <Legend>
-            <Shape_0001 />
+            <Shape1 />
             <MarketingSales>Users</MarketingSales>
           </Legend>
           <Legend>
-            <Shape_0002 />
+            <Shape2 />
             <MarketingSales>Product</MarketingSales>
           </Legend>
           <Legend>
-            <Shape_0003 />
+            <Shape3 />
             <MarketingSales>Team</MarketingSales>
           </Legend>
         </Header>
-        <Graph_0001>
-          <Chart_0004>
+        <Graph1>
+          <Chart4>
             <YAxis>
-              <_1K>1k</_1K>
-              <_0>0</_0>
-              <_200>200</_200>
-              <_400>400</_400>
-              <_600>600</_600>
-              <_800>800</_800>
+              <Crimi1>1k</Crimi1>
+              <Crimi2>0</Crimi2>
+              <Crimi200>200</Crimi200>
+              <Crimi400>400</Crimi400>
+              <Crimi600>600</Crimi600>
+              <Crimi800>800</Crimi800>
             </YAxis>
             <XAxis>
               <Dec>
-                <Name_0002>Dec</Name_0002>
-                <Shape_0004 xmlns="http://www.w3.org/2000/svg">
+                <Name2>Dec</Name2>
+                <Shape4 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0 384.2L2.44063e-14 0L1.14496 0L1.14496 384.2L0 384.2Z"
                   />
-                </Shape_0004>
+                </Shape4>
               </Dec>
               <Nov>
-                <Name_0003>Nov</Name_0003>
-                <Shape_0004 xmlns="http://www.w3.org/2000/svg">
+                <Name3>Nov</Name3>
+                <Shape4 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0 384.2L2.44062e-14 0L1.14496 0L1.14496 384.2L0 384.2Z"
                   />
-                </Shape_0004>
+                </Shape4>
               </Nov>
               <Oct>
-                <Name_0004>Oct</Name_0004>
-                <Shape_0006 xmlns="http://www.w3.org/2000/svg">
+                <Name4>Oct</Name4>
+                <Shape6 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0 384.2L2.44063e-14 0L1.14496 0L1.14496 384.2L0 384.2Z"
                   />
-                </Shape_0006>
+                </Shape6>
               </Oct>
               <Sep>
-                <Name_0002>Sep</Name_0002>
-                <Shape_0007 xmlns="http://www.w3.org/2000/svg">
+                <Name2>Sep</Name2>
+                <Shape7 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0 384.2L2.44063e-14 0L1.14496 0L1.14496 384.2L0 384.2Z"
                   />
-                </Shape_0007>
+                </Shape7>
               </Sep>
               <Aug>
-                <Name_0006>Aug</Name_0006>
-                <Shape_0004 xmlns="http://www.w3.org/2000/svg">
+                <Name6>Aug</Name6>
+                <Shape4 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0 384.2L2.44063e-14 0L1.14496 0L1.14496 384.2L0 384.2Z"
                   />
-                </Shape_0004>
+                </Shape4>
               </Aug>
               <Jul>
-                <Name_0007>Jul</Name_0007>
-                <Shape_0009 xmlns="http://www.w3.org/2000/svg">
+                <Name7>Jul</Name7>
+                <Shape9 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0 384.2L2.44063e-14 0L1.14496 0L1.14496 384.2L0 384.2Z"
                   />
-                </Shape_0009>
+                </Shape9>
               </Jul>
               <Jun>
-                <Name_0008>Jun</Name_0008>
-                <Shape_0010 xmlns="http://www.w3.org/2000/svg">
+                <Name8>Jun</Name8>
+                <Shape10 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0 384.2L2.44063e-14 0L1.14496 0L1.14496 384.2L0 384.2Z"
                   />
-                </Shape_0010>
+                </Shape10>
               </Jun>
               <May>
-                <Name_0002>May</Name_0002>
-                <Shape_0011 xmlns="http://www.w3.org/2000/svg">
+                <Name2>May</Name2>
+                <Shape11 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0.013011 384.2L0.013011 0L1.13195 0L1.13195 384.2L0.013011 384.2Z"
                   />
-                </Shape_0011>
+                </Shape11>
               </May>
               <Apr>
-                <Name_0010>Apr</Name_0010>
-                <Shape_0012 xmlns="http://www.w3.org/2000/svg">
+                <Namei10>Apr</Namei10>
+                <Shape12 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0.0130109 384.2L0.0130109 0L1.13195 0L1.13195 384.2L0.0130109 384.2Z"
                   />
-                </Shape_0012>
+                </Shape12>
               </Apr>
               <Mar>
-                <Name_0011>Mar</Name_0011>
-                <Shape_0013 xmlns="http://www.w3.org/2000/svg">
+                <Name11>Mar</Name11>
+                <Shape13 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0.0130109 384.2L0.0130109 0L1.13195 0L1.13195 384.2L0.0130109 384.2Z"
                   />
-                </Shape_0013>
+                </Shape13>
               </Mar>
               <Feb>
-                <Name_0008>Feb</Name_0008>
-                <Shape_0014 xmlns="http://www.w3.org/2000/svg">
+                <Name8>Feb</Name8>
+                <Shape14 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0.0130109 384.2L0.0130109 0L1.13195 0L1.13195 384.2L0.0130109 384.2Z"
                   />
-                </Shape_0014>
+                </Shape14>
               </Feb>
               <Jan>
-                <Name_0008>Jan</Name_0008>
-                <Shape_0010 xmlns="http://www.w3.org/2000/svg">
+                <Name8>Jan</Name8>
+                <Shape10 xmlns="http://www.w3.org/2000/svg">
                   <path
                     fill="rgb(241, 241, 245)"
                     d="M0.0130109 384.2L0.0130109 0L1.13195 0L1.13195 384.2L0.0130109 384.2Z"
                   />
-                </Shape_0010>
+                </Shape10>
               </Jan>
             </XAxis>
-          </Chart_0004>
+          </Chart4>
           <Data>
             <Bubble />
-            <Bubble_0001 />
-            <Bubble_0002 />
-            <Bubble_0003 />
-            <Bubble_0004 />
-            <Bubble_0005 />
-            <Bubble_0006 />
-            <Bubble_0007 />
-            <Bubble_0008 />
-            <Bubble_0009 />
-            <Bubble_0010 />
-            <Bubble_0011>
-              <Bubble_0012 />
-              <Value_0006>$27632</Value_0006>
-            </Bubble_0011>
-            <Bubble_0013>
-              <Bubble_0014 />
-              <Value_0007>$27632</Value_0007>
-            </Bubble_0013>
-            <Bubble_0015>
-              <Bubble_0016 />
-              <Value_0008>$27632</Value_0008>
+            <Bubble1 />
+            <Bubble2 />
+            <Bubble3 />
+            <Bubble4 />
+            <Bubble5 />
+            <Bubble6 />
+            <Bubble7 />
+            <Bubble8 />
+            <Bubble9 />
+            <Bubble10 />
+            <Bubble11>
+              <Bubble12 />
+              <Value6>$27632</Value6>
+            </Bubble11>
+            <Bubble13>
+              <Bubble14 />
+              <Value7>$27632</Value7>
+            </Bubble13>
+            <Bubble15>
+              <Bubble16 />
+              <Value8>$27632</Value8>
               <Text>August</Text>
-            </Bubble_0015>
+            </Bubble15>
           </Data>
-        </Graph_0001>
+        </Graph1>
       </WidgetLSizeGlobalStatistic>
     </RootWrapperWorldHexagonMap>
   );
@@ -532,7 +532,7 @@ const Value = styled.div`
 	box-sizing: border-box;
 `;
 
-const Value_0001 = styled.div`
+const Value1 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: column;
@@ -552,7 +552,7 @@ const Title = styled.span`
 	text-align: left;
 `;
 
-const Value_0002 = styled.span`
+const Value2 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 22px;
@@ -592,181 +592,181 @@ const Column = styled.div`
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0001 = styled.div`
+const Column1 = styled.div`
 	width: 20px;
 	height: 27px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0002 = styled.div`
+const Column2 = styled.div`
 	width: 20px;
 	height: 28px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0003 = styled.div`
+const Column3 = styled.div`
 	width: 20px;
 	height: 31px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0004 = styled.div`
+const Column4 = styled.div`
 	width: 21px;
 	height: 31px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0005 = styled.div`
+const Column5 = styled.div`
 	width: 21px;
 	height: 24px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0007 = styled.div`
+const Column7 = styled.div`
 	width: 20px;
 	height: 38px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0008 = styled.div`
+const Column8 = styled.div`
 	width: 20px;
 	height: 36px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0013 = styled.div`
+const Column13 = styled.div`
 	width: 20px;
 	height: 24px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0014 = styled.div`
+const Column14 = styled.div`
 	width: 20px;
 	height: 14px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0015 = styled.div`
+const Column15 = styled.div`
 	width: 20px;
 	height: 19px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0016 = styled.div`
+const Column16 = styled.div`
 	width: 20px;
 	height: 18px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0018 = styled.div`
+const Column18 = styled.div`
 	width: 20px;
 	height: 14px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0019 = styled.div`
+const Column19 = styled.div`
 	width: 20px;
 	height: 16px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0020 = styled.div`
+const Column20 = styled.div`
 	width: 20px;
 	height: 17px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0021 = styled.div`
+const Column21 = styled.div`
 	width: 20px;
 	height: 19px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0022 = styled.div`
+const Column22 = styled.div`
 	width: 20px;
 	height: 25px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0023 = styled.div`
+const Column23 = styled.div`
 	width: 20px;
 	height: 27px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0024 = styled.div`
+const Column24 = styled.div`
 	width: 20px;
 	height: 28px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0026 = styled.div`
+const Column26 = styled.div`
 	width: 21px;
 	height: 14px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0028 = styled.div`
+const Column28 = styled.div`
 	width: 21px;
 	height: 24px;
 	background-color: rgb(255, 112, 139);
 `;
 
-const Column_0031 = styled.div`
+const Column31 = styled.div`
 	width: 20px;
 	height: 17px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0042 = styled.div`
+const Column42 = styled.div`
 	width: 20px;
 	height: 16px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0050 = styled.div`
+const Column50 = styled.div`
 	width: 21px;
 	height: 19px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0052 = styled.div`
+const Column52 = styled.div`
 	width: 21px;
 	height: 13px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0054 = styled.div`
+const Column54 = styled.div`
 	width: 20px;
 	height: 22px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0055 = styled.div`
+const Column55 = styled.div`
 	width: 20px;
 	height: 21px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0060 = styled.div`
+const Column60 = styled.div`
 	width: 20px;
 	height: 13px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0068 = styled.div`
+const Column68 = styled.div`
 	width: 20px;
 	height: 9px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0070 = styled.div`
+const Column70 = styled.div`
 	width: 20px;
 	height: 10px;
 	background-color: rgb(219, 223, 241);
 `;
 
-const Column_0071 = styled.div`
+const Column71 = styled.div`
 	width: 20px;
 	height: 11px;
 	background-color: rgb(219, 223, 241);
@@ -885,7 +885,7 @@ const Label = styled.span`
 	text-align: left;
 `;
 
-const Label_0001 = styled.span`
+const Label1 = styled.span`
 	color: black;
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -922,7 +922,7 @@ const Logo = styled.div`
 	top: 14px;
 `;
 
-const Logo_0001 = styled.div`
+const Logo1 = styled.div`
 	width: 21px;
 	height: 21px;
 	border-radius: 21px / 21px;
@@ -951,7 +951,7 @@ const Footer = styled.div`
 	bottom: 0px;
 `;
 
-const Bg_0001 = styled.div`
+const Bg1 = styled.div`
 	background-color: white;
 	position: absolute;
 	left: 0px;
@@ -975,7 +975,7 @@ const OrionDataVisualisation = styled.span`
 	top: calc((calc((50% + 0px)) - 8px));
 `;
 
-const _2019 = styled.span`
+const Year2019 = styled.span`
 	color: rgb(90, 90, 137);
 	text-overflow: ellipsis;
 	font-size: 10px;
@@ -1014,13 +1014,13 @@ const InformerInfoWithIcon = styled.div`
 	box-sizing: border-box;
 `;
 
-const Icon_0001 = styled.div`
+const Icon1 = styled.div`
 	width: 70px;
 	height: 70px;
 	position: relative;
 `;
 
-const Background_0001 = styled.div`
+const Background1 = styled.div`
 	width: 70px;
 	height: 70px;
 	background-color: rgb(134, 118, 255);
@@ -1039,7 +1039,7 @@ const Activity = styled.img`
 	top: 20px;
 `;
 
-const Info_0001 = styled.div`
+const Info1 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: column;
@@ -1048,7 +1048,7 @@ const Info_0001 = styled.div`
 	box-sizing: border-box;
 `;
 
-const Title_0001 = styled.span`
+const Title1 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 20px;
@@ -1068,7 +1068,7 @@ const Amount = styled.div`
 	box-sizing: border-box;
 `;
 
-const Value_0003 = styled.span`
+const Value3 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 20px;
@@ -1078,7 +1078,7 @@ const Value_0003 = styled.span`
 	text-align: left;
 `;
 
-const Background_0002 = styled.div`
+const Background2 = styled.div`
 	width: 70px;
 	height: 70px;
 	background-color: rgb(102, 200, 255);
@@ -1097,7 +1097,7 @@ const Crown = styled.img`
 	top: 20px;
 `;
 
-const Background_0003 = styled.div`
+const Background3 = styled.div`
 	width: 70px;
 	height: 70px;
 	background-color: rgb(255, 144, 102);
@@ -1107,7 +1107,7 @@ const Background_0003 = styled.div`
 	top: 0px;
 `;
 
-const Chart_0001 = styled.img`
+const Chart1 = styled.img`
 	width: 32px;
 	height: 32px;
 	object-fit: cover;
@@ -1131,7 +1131,7 @@ const WidgetMSizeBigCircleChart = styled.div`
 	height: 88px;
 `;
 
-const Chart_0002 = styled.div`
+const Chart2 = styled.div`
 	width: 88px;
 	height: 88px;
 	position: relative;
@@ -1152,7 +1152,7 @@ const Percent = styled.span`
 	height: 37px;
 `;
 
-const Background_0004 = styled.div`
+const Background4 = styled.div`
 	width: 88px;
 	height: 88px;
 	border-radius: 88px / 88px;
@@ -1170,7 +1170,7 @@ const Progress = styled.img`
 	top: 0px;
 `;
 
-const Info_0004 = styled.div`
+const Info4 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: column;
@@ -1180,7 +1180,7 @@ const Info_0004 = styled.div`
 	box-sizing: border-box;
 `;
 
-const Amount_0003 = styled.span`
+const Amount3 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 20px;
@@ -1204,7 +1204,7 @@ const Detail = styled.span`
 	min-height: 25px;
 `;
 
-const WidgetMSizeBigCircleChart_0001 = styled.div`
+const WidgetMSizeBigCircleChart1 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1260,7 +1260,7 @@ const Indicator = styled.img`
 	object-fit: cover;
 `;
 
-const Title_0004 = styled.span`
+const Title4 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1270,7 +1270,7 @@ const Title_0004 = styled.span`
 	text-align: left;
 `;
 
-const Amount_0005 = styled.span`
+const Amount5 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 20px;
@@ -1290,7 +1290,7 @@ const Arrow = styled.svg`
 	transform-origin: top left;
 `;
 
-const MapPinPinWithName_0001 = styled.div`
+const MapPinPinWithName1 = styled.div`
 	width: 180px;
 	height: 72px;
 	position: absolute;
@@ -1299,7 +1299,7 @@ const MapPinPinWithName_0001 = styled.div`
 	right: 1024px;
 `;
 
-const Tooltip_0001 = styled.div`
+const Tooltip1 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1316,7 +1316,7 @@ const Tooltip_0001 = styled.div`
 	height: 60px;
 `;
 
-const MapPinPinWithName_0002 = styled.div`
+const MapPinPinWithName2 = styled.div`
 	width: 180px;
 	height: 72px;
 	position: absolute;
@@ -1325,7 +1325,7 @@ const MapPinPinWithName_0002 = styled.div`
 	right: 692px;
 `;
 
-const Tooltip_0002 = styled.div`
+const Tooltip2 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1342,7 +1342,7 @@ const Tooltip_0002 = styled.div`
 	height: 60px;
 `;
 
-const MapPinPinWithName_0003 = styled.div`
+const MapPinPinWithName3 = styled.div`
 	width: 180px;
 	height: 72px;
 	position: absolute;
@@ -1351,7 +1351,7 @@ const MapPinPinWithName_0003 = styled.div`
 	right: 605px;
 `;
 
-const Tooltip_0003 = styled.div`
+const Tooltip3 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1368,7 +1368,7 @@ const Tooltip_0003 = styled.div`
 	height: 60px;
 `;
 
-const MapPinPinWithName_0004 = styled.div`
+const MapPinPinWithName4 = styled.div`
 	width: 180px;
 	height: 72px;
 	position: absolute;
@@ -1377,7 +1377,7 @@ const MapPinPinWithName_0004 = styled.div`
 	right: 224px;
 `;
 
-const MapPinPinWithName_0005 = styled.div`
+const MapPinPinWithName5 = styled.div`
 	width: 180px;
 	height: 72px;
 	position: absolute;
@@ -1386,7 +1386,7 @@ const MapPinPinWithName_0005 = styled.div`
 	right: 113px;
 `;
 
-const Tooltip_0005 = styled.div`
+const Tooltip5 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1418,7 +1418,7 @@ const Description = styled.span`
 	top: calc((calc((50% + 0px)) - 8px));
 `;
 
-const Amount_0011 = styled.span`
+const Amount11 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 72px;
@@ -1432,7 +1432,7 @@ const Amount_0011 = styled.span`
 	top: 201px;
 `;
 
-const Title_0010 = styled.div`
+const Title10 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1446,7 +1446,7 @@ const Title_0010 = styled.div`
 	height: 32px;
 `;
 
-const Name_0001 = styled.span`
+const Namei1 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 20px;
@@ -1456,7 +1456,7 @@ const Name_0001 = styled.span`
 	text-align: left;
 `;
 
-const Detail_0002 = styled.div`
+const Detail2 = styled.div`
 	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -1466,7 +1466,7 @@ const Detail_0002 = styled.div`
 	box-sizing: border-box;
 `;
 
-const Detail_0003 = styled.span`
+const Detail3 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 10px;
@@ -1512,7 +1512,7 @@ const Header = styled.div`
 	box-sizing: border-box;
 `;
 
-const Title_0011 = styled.span`
+const Title11 = styled.span`
 	color: rgb(23, 23, 37);
 	text-overflow: ellipsis;
 	font-size: 18px;
@@ -1550,34 +1550,34 @@ const MarketingSales = styled.span`
 	width: 100px;
 `;
 
-const Shape_0001 = styled.div`
+const Shape1 = styled.div`
 	width: 12px;
 	height: 12px;
 	background-color: rgb(250, 230, 52);
 	border-radius: 7px;
 `;
 
-const Shape_0002 = styled.div`
+const Shape2 = styled.div`
 	width: 12px;
 	height: 12px;
 	background-color: rgb(252, 113, 125);
 	border-radius: 7px;
 `;
 
-const Shape_0003 = styled.div`
+const Shape3 = styled.div`
 	width: 12px;
 	height: 12px;
 	background-color: rgb(105, 93, 251);
 	border-radius: 7px;
 `;
 
-const Graph_0001 = styled.div`
+const Graph1 = styled.div`
 	width: 1011px;
 	height: 423px;
 	position: relative;
 `;
 
-const Chart_0004 = styled.div`
+const Chart4 = styled.div`
 	width: 1011px;
 	height: 423px;
 	position: absolute;
@@ -1593,7 +1593,7 @@ const YAxis = styled.div`
 	top: 0px;
 `;
 
-const _1K = styled.span`
+const Crimi1 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1608,7 +1608,7 @@ const _1K = styled.span`
 	opacity: 0.6;
 `;
 
-const _0 = styled.span`
+const Crimi2 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1623,7 +1623,7 @@ const _0 = styled.span`
 	opacity: 0.6;
 `;
 
-const _200 = styled.span`
+const Crimi200 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1638,7 +1638,7 @@ const _200 = styled.span`
 	opacity: 0.6;
 `;
 
-const _400 = styled.span`
+const Crimi400 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1653,7 +1653,7 @@ const _400 = styled.span`
 	opacity: 0.6;
 `;
 
-const _600 = styled.span`
+const Crimi600 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1668,7 +1668,7 @@ const _600 = styled.span`
 	opacity: 0.6;
 `;
 
-const _800 = styled.span`
+const Crimi800 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1700,7 +1700,7 @@ const Dec = styled.div`
 	bottom: 0px;
 `;
 
-const Name_0002 = styled.span`
+const Name2 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1715,7 +1715,7 @@ const Name_0002 = styled.span`
 	opacity: 0.6;
 `;
 
-const Shape_0004 = styled.svg`
+const Shape4 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -1734,7 +1734,7 @@ const Nov = styled.div`
 	bottom: 0px;
 `;
 
-const Name_0003 = styled.span`
+const Name3 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1758,7 +1758,7 @@ const Oct = styled.div`
 	bottom: 0px;
 `;
 
-const Name_0004 = styled.span`
+const Name4 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1773,7 +1773,7 @@ const Name_0004 = styled.span`
 	opacity: 0.6;
 `;
 
-const Shape_0006 = styled.svg`
+const Shape6 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -1792,7 +1792,7 @@ const Sep = styled.div`
 	bottom: 0px;
 `;
 
-const Shape_0007 = styled.svg`
+const Shape7 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -1811,7 +1811,7 @@ const Aug = styled.div`
 	bottom: 0px;
 `;
 
-const Name_0006 = styled.span`
+const Name6 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1835,7 +1835,7 @@ const Jul = styled.div`
 	bottom: 0px;
 `;
 
-const Name_0007 = styled.span`
+const Name7 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1850,7 +1850,7 @@ const Name_0007 = styled.span`
 	opacity: 0.6;
 `;
 
-const Shape_0009 = styled.svg`
+const Shape9 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -1869,7 +1869,7 @@ const Jun = styled.div`
 	bottom: 0px;
 `;
 
-const Name_0008 = styled.span`
+const Name8 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1884,7 +1884,7 @@ const Name_0008 = styled.span`
 	opacity: 0.6;
 `;
 
-const Shape_0010 = styled.svg`
+const Shape10 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -1903,7 +1903,7 @@ const May = styled.div`
 	bottom: 0px;
 `;
 
-const Shape_0011 = styled.svg`
+const Shape11 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -1922,7 +1922,7 @@ const Apr = styled.div`
 	bottom: 0px;
 `;
 
-const Name_0010 = styled.span`
+const Namei10 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1937,7 +1937,7 @@ const Name_0010 = styled.span`
 	opacity: 0.6;
 `;
 
-const Shape_0012 = styled.svg`
+const Shape12 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -1956,7 +1956,7 @@ const Mar = styled.div`
 	bottom: 0px;
 `;
 
-const Name_0011 = styled.span`
+const Name11 = styled.span`
 	color: rgb(56, 56, 116);
 	text-overflow: ellipsis;
 	font-size: 16px;
@@ -1971,7 +1971,7 @@ const Name_0011 = styled.span`
 	opacity: 0.6;
 `;
 
-const Shape_0013 = styled.svg`
+const Shape13 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -1990,7 +1990,7 @@ const Feb = styled.div`
 	bottom: 0px;
 `;
 
-const Shape_0014 = styled.svg`
+const Shape14 = styled.svg`
 	width: 1px;
 	height: 384px;
 	position: absolute;
@@ -2027,7 +2027,7 @@ const Bubble = styled.div`
 	top: 198px;
 `;
 
-const Bubble_0001 = styled.div`
+const Bubble1 = styled.div`
 	width: 25px;
 	height: 25px;
 	background-color: rgb(147, 82, 229);
@@ -2037,7 +2037,7 @@ const Bubble_0001 = styled.div`
 	top: 250px;
 `;
 
-const Bubble_0002 = styled.div`
+const Bubble2 = styled.div`
 	width: 16px;
 	height: 16px;
 	background-color: rgb(147, 82, 229);
@@ -2047,7 +2047,7 @@ const Bubble_0002 = styled.div`
 	top: 119px;
 `;
 
-const Bubble_0003 = styled.div`
+const Bubble3 = styled.div`
 	width: 16px;
 	height: 16px;
 	background-color: rgb(147, 82, 229);
@@ -2057,7 +2057,7 @@ const Bubble_0003 = styled.div`
 	top: 161px;
 `;
 
-const Bubble_0004 = styled.div`
+const Bubble4 = styled.div`
 	width: 77px;
 	height: 77px;
 	box-shadow: 0px 109px 80px  rgba(226, 13, 148, 0.13),0px 46px 33px  rgba(226, 13, 148, 0.09),0px 24px 18px  rgba(226, 13, 148, 0.08),0px 14px 10px  rgba(226, 13, 148, 0.06),0px 7px 5px  rgba(226, 13, 148, 0.05),0px 3px 2px  rgba(226, 13, 148, 0.04);
@@ -2068,7 +2068,7 @@ const Bubble_0004 = styled.div`
 	top: 185px;
 `;
 
-const Bubble_0005 = styled.div`
+const Bubble5 = styled.div`
 	width: 94px;
 	height: 94px;
 	background-color: rgb(249, 224, 1);
@@ -2079,7 +2079,7 @@ const Bubble_0005 = styled.div`
 	opacity: 0.8;
 `;
 
-const Bubble_0006 = styled.div`
+const Bubble6 = styled.div`
 	width: 68px;
 	height: 68px;
 	box-shadow: 0px 109px 80px  rgba(132, 13, 226, 0.14),0px 46px 33px  rgba(132, 13, 226, 0.1),0px 24px 18px  rgba(132, 13, 226, 0.08),0px 14px 10px  rgba(132, 13, 226, 0.07),0px 7px 5px  rgba(132, 13, 226, 0.06),0px 3px 2px  rgba(132, 13, 226, 0.04);
@@ -2090,7 +2090,7 @@ const Bubble_0006 = styled.div`
 	top: 94px;
 `;
 
-const Bubble_0007 = styled.div`
+const Bubble7 = styled.div`
 	width: 25px;
 	height: 25px;
 	background-color: rgb(105, 93, 251);
@@ -2100,7 +2100,7 @@ const Bubble_0007 = styled.div`
 	top: 169px;
 `;
 
-const Bubble_0008 = styled.div`
+const Bubble8 = styled.div`
 	width: 44px;
 	height: 44px;
 	background-color: rgb(147, 82, 229);
@@ -2110,7 +2110,7 @@ const Bubble_0008 = styled.div`
 	top: 219px;
 `;
 
-const Bubble_0009 = styled.div`
+const Bubble9 = styled.div`
 	width: 44px;
 	height: 44px;
 	box-shadow: 0px 109px 80px  rgba(132, 13, 226, 0.14),0px 46px 33px  rgba(132, 13, 226, 0.1),0px 24px 18px  rgba(132, 13, 226, 0.08),0px 14px 10px  rgba(132, 13, 226, 0.07),0px 7px 5px  rgba(132, 13, 226, 0.06),0px 3px 2px  rgba(132, 13, 226, 0.04);
@@ -2121,7 +2121,7 @@ const Bubble_0009 = styled.div`
 	top: 214px;
 `;
 
-const Bubble_0010 = styled.div`
+const Bubble10 = styled.div`
 	width: 34px;
 	height: 34px;
 	background-color: rgb(250, 230, 52);
@@ -2131,7 +2131,7 @@ const Bubble_0010 = styled.div`
 	top: 92px;
 `;
 
-const Bubble_0011 = styled.div`
+const Bubble11 = styled.div`
 	width: 147px;
 	height: 146px;
 	position: absolute;
@@ -2139,7 +2139,7 @@ const Bubble_0011 = styled.div`
 	top: 109px;
 `;
 
-const Bubble_0012 = styled.div`
+const Bubble12 = styled.div`
 	width: 147px;
 	height: 146px;
 	box-shadow: 0px 100px 80px  rgba(255, 43, 43, 0.15),0px 46px 37px  rgba(255, 43, 43, 0.11),0px 26px 21px  rgba(255, 43, 43, 0.09),0px 16px 13px  rgba(255, 43, 43, 0.08),0px 10px 8px  rgba(255, 43, 43, 0.07),0px 5px 4px  rgba(255, 43, 43, 0.06),0px 2px 2px  rgba(255, 43, 43, 0.04);
@@ -2151,7 +2151,7 @@ const Bubble_0012 = styled.div`
 	opacity: 0.8;
 `;
 
-const Value_0006 = styled.span`
+const Value6 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 18px;
@@ -2166,7 +2166,7 @@ const Value_0006 = styled.span`
 	height: 28px;
 `;
 
-const Bubble_0013 = styled.div`
+const Bubble13 = styled.div`
 	width: 130px;
 	height: 129px;
 	position: absolute;
@@ -2174,7 +2174,7 @@ const Bubble_0013 = styled.div`
 	top: 133px;
 `;
 
-const Bubble_0014 = styled.div`
+const Bubble14 = styled.div`
 	width: 130px;
 	height: 129px;
 	background-color: rgb(250, 230, 52);
@@ -2184,7 +2184,7 @@ const Bubble_0014 = styled.div`
 	top: 0px;
 `;
 
-const Value_0007 = styled.span`
+const Value7 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 18px;
@@ -2199,7 +2199,7 @@ const Value_0007 = styled.span`
 	height: 28px;
 `;
 
-const Bubble_0015 = styled.div`
+const Bubble15 = styled.div`
 	width: 248px;
 	height: 247px;
 	position: absolute;
@@ -2207,7 +2207,7 @@ const Bubble_0015 = styled.div`
 	top: 0px;
 `;
 
-const Bubble_0016 = styled.div`
+const Bubble16 = styled.div`
 	width: 248px;
 	height: 247px;
 	box-shadow: 0px 109px 80px  rgba(132, 13, 226, 0.14),0px 46px 33px  rgba(132, 13, 226, 0.1),0px 24px 18px  rgba(132, 13, 226, 0.08),0px 14px 10px  rgba(132, 13, 226, 0.07),0px 7px 5px  rgba(132, 13, 226, 0.06),0px 3px 2px  rgba(132, 13, 226, 0.04);
@@ -2218,7 +2218,7 @@ const Bubble_0016 = styled.div`
 	top: 0px;
 `;
 
-const Value_0008 = styled.span`
+const Value8 = styled.span`
 	color: white;
 	text-overflow: ellipsis;
 	font-size: 18px;
